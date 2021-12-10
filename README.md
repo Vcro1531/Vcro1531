@@ -1,5 +1,3 @@
-![screenshots](https://github.com/dsmjimin/dsmjimin/blob/main/screenshots/1.gif?raw=true)
-
 ### Hi there 👋
 
 <!--
