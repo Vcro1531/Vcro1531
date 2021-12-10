@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/80966850/145520751-20a1a727-0887-45cb-bc26-9f4f2106205c.gif)
+
+
 ### 안녕하세요 👋
 
 <!--
