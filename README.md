@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/80966850/145520751-20a1a727-0887-45cb-bc26-9f4f2106205c.gif)
 
 
-### 반갑습니다 👋
+### 👋
 
 <!--
 **dsmjimin/dsmjimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
